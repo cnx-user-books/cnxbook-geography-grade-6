@@ -1,0 +1,66 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Map projections</title>
+  <metadata>
+  <md:content-id>m22761</md:content-id><md:title>Map projections</md:title>
+  <md:abstract/>
+  <md:uuid>67de93ee-bd1d-4e52-ba3b-b24570891fec</md:uuid>
+</metadata>
+
+<content>
+    <section id="id10726211">
+      <title>SOCIAL SCIENCES: Geography</title>
+      <para id="para-id10726211">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4735021">
+      <title>Grade 6</title>
+      <para id="para-id4735021">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8066350">
+      <title>MAP WORK AND PRACTICAL WORK</title>
+      <para id="para-id8066350">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4701120">
+      <title>Module 4</title>
+      <para id="para-id4701120">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9942450">
+      <title>MAP PROJECTIONS</title>
+      <para id="id12997590">Map projections</para>
+      <list id="id9061201" list-type="bulleted">
+        <item>The only way in which a map of the world can be drawn accurately, is to do it on a round ball such as a globe. However, it is cumbersome to carry these globes of different sizes and shapes around. For this reason different geographers applied different methods to develop flat maps that convey accurate information. Some of these projections are named after the person who developed them, and others were named after the method that was used to develop the projection.</item>
+      </list>
+      <para id="id10434004">1. The Mercator projection</para>
+      <list id="id10625334" list-type="bulleted">
+        <item>The geographer, Gerhardus Mercator, used the cylindrical method to design his projection. This projection can be compared to a sheet of transparent paper folded in the form of a cylinder, the same size as a globe, and then placed over the globe. After the projection has been traced onto the paper, the paper is flattened, which then forms the Mercator projection.</item>
+      </list>
+      <section id="id12990013">
+        <title/>
+        <para id="para-id12990013">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id10064224">
+        <title>Mercator projection</title>
+        <figure id="id12106069">
+          <media id="id12106069_media" alt="">
+            <image mime-type="image/png" src="../../media/Picture 1-2759.png" id="id12106069__onlineimage" height="388" width="572"/>
+          </media>
+        </figure>
+        <para id="id12066799">2. Features of the Mercator projection</para>
+        <list id="id12161247" list-type="bulleted">
+          <item>The lines of latitude are straight lines.</item>
+          <item>The lines of longitude are parallel to one another.</item>
+        </list>
+        <para id="id9677339">The continents have the right shape, but they are enlarged, especially at the Polar</para>
+      </section>
+    </section>
+  </content>
+</document>
